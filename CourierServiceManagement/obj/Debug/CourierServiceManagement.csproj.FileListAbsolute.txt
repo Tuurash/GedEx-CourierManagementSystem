@@ -1,0 +1,84 @@
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe.config
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.pdb
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.dll
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csprojAssemblyReference.cache
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Customer.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Employee.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Login.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Manager.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.OrderSubmit.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Properties.Resources.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.GenerateResource.cache
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.CopyComplete
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.exe
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.pdb
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csprojAssemblyReference.cache
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Customer.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Employee.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Login.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Manager.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.NewEmployee.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.OrderSubmit.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Properties.Resources.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.GenerateResource.cache
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.CoreCompileInputs.cache
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.exe
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.pdb
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe.config
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.pdb
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.dll
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.CopyComplete
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.CustomerGrid.resources
+C:\Users\J4ckl0ck\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.EmployeeGrid.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe.config
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.exe
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.pdb
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.pdb
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.dll
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csprojResolveAssemblyReference.cache
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Customer.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.CustomerGrid.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Employee.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.EmployeeGrid.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Login.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Manager.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.NewEmployee.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.OrderSubmit.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Properties.Resources.resources
+C:\Users\MIM\Desktop\Trash project\Trash project\amader final edit\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.GenerateResource.Cache
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.CustomerGrid.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.EmployeeGrid.resources
+C:\Users\Tushar\Desktop\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.NewEmployee.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe.config
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.exe
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.pdb
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.pdb
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.dll
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csprojResolveAssemblyReference.cache
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Customer.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.CustomerGrid.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Employee.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.EmployeeGrid.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Login.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.Manager.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.NewEmployee.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.OrderSubmit.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.Properties.Resources.resources
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.csproj.GenerateResource.Cache
+C:\Users\MIM\Desktop\Trash project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.PresentationLayer.UpdateCustomer.resources
+C:\Users\MIM\Desktop\Trash project\My c# project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\bin\Debug\CourierServiceManagement.exe.config
+C:\Users\MIM\Desktop\Trash project\My c# project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.exe
+C:\Users\MIM\Desktop\Trash project\My c# project\FinalProjectAttempt\CourierServiceManagement\CourierServiceManagement\obj\Debug\CourierServiceManagement.pdb
